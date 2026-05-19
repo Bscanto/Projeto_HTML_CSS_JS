@@ -1,48 +1,47 @@
-# 📚 Estudos e Projetos Práticos com HTML, CSS e JavaScript
+# 📚 Projetos em HTML, CSS e JavaScript
 
-Bem-vindo ao repositório de estudos e projetos práticos com HTML, CSS e JavaScript! Este repositório foi criado com o objetivo de organizar e compartilhar experimentos, projetos simples e estudos focados em desenvolvimento front-end.
+Este repositório reúne projetos e experimentos desenvolvidos com HTML, CSS e JavaScript. Cada pasta contém uma aplicação ou layout criado para praticar design responsivo, animações, interatividade e lógica de front-end.
 
-## 🧾 Sobre o Repositório
+## 🚀 Projetos Desenvolvidos
 
-Este repositório contém exemplos práticos, mini-projetos e conceitos fundamentais para quem está aprendendo ou reforçando conhecimentos em:
+- `Awax` — landing page com layout moderno e imagens.
+- `bike` — projeto de website com estrutura de navegação e estilo visual.
+- `childrens_jumping_game` — jogo interativo em JavaScript para crianças.
+- `flexblog` — layout de blog usando Flexbox.
+- `grid-flexbox` — demonstração de layout com CSS Grid e Flexbox.
+- `Landing page Seals` — landing page responsiva com design visual.
+- `Projeto Burguer` — site de hamburgueria com menu, páginas e estilo completo.
+- `Projeto Pizzaria` — página de pizzaria com seção de cardápio e estilo.
+- `projeto-calculadora` — calculadora funcional desenvolvida com JavaScript.
+- `Projeto-GTA` — projeto de site com inspiração em design de jogos.
+- `Starbucks` — página com visual de cafeteria e elementos estilizados.
+- `Wildbeast` — página com imagens, estilos e responsividade.
 
-- **HTML**: Estruturação e semântica.
-- **CSS**: Estilização, responsividade e animações.
-- **JavaScript**: Lógica de programação, manipulação de DOM, eventos e mais.
+## 🧾 Sobre os Projetos
 
-Os projetos variam em complexidade, desde exercícios básicos até projetos mais elaborados.
+Cada projeto mostra um aspecto diferente do desenvolvimento front-end:
 
----
+- Estruturação com **HTML**.
+- Estilização com **CSS**, incluindo responsividade e layouts flexíveis.
+- Funcionalidade e interação usando **JavaScript**.
 
+## 📂 Como Visualizar
 
+1. Navegue até a pasta do projeto desejado.
+2. Abra o arquivo `index.html` no navegador.
+3. Se o projeto tiver uma subpasta (por exemplo, `bike/web`), abra o `index.html` dentro dela.
 
-## 🚀 Como Usar
+## 🛠️ Tecnologias Utilizadas
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/Bscanto/HTML_CSS_JS_Project.git
-   ```
+- HTML5
+- CSS3
+- JavaScript
+- Visual Studio Code (recomendado)
 
-2. Acesse a pasta do projeto desejado:
+## ✨ Contato
 
- - Acesse o projeto ou pasta desejado e abra em seu navegador o index.html.
+- Autor: Bruno Canto
+- LinkedIn: [BrunoCanto](https://www.linkedin.com/in/brunosilvacanto/)
+- E-mail: bruno_scanto@hotmail.com
 
-3. Abra o arquivo index.htmlde cada projeto para visualizar.
-
-
-🛠️ Ferramentas e Tecnologias
-**HTML5**
-**CSS3**
-**JavaScript (ES6+)**
-**Visual Studio Code (recomendado)**
-
-
-📝 Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request com melhorias, novos projetos ou desafios.
-
-
-📬 Contato
-Autor: Bruno Canto
-LinkedIn: [BrunoCanto](https://www.linkedin.com/in/brunosilvacanto/)
-E-mail: bruno_scanto@hotmail.com
-Aproveite os estudos e divirta-se criando! 🚀
+Aproveite os projetos e continue praticando! 🚀
